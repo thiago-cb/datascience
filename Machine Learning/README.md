@@ -1,4 +1,4 @@
-## [Machine Learning](https://github.com/thiago-cb/datascience/tree/master/Machine%20Learning)
+## Machine Learning
 
 - ### [Building A Handwritten Digits Classifier](https://github.com/thiago-cb/datascience/blob/master/Machine%20Learning/Building%20A%20Handwritten%20Digits%20Classifier/Building%20A%20Handwritten%20Digits%20Classifier.ipynb)
     - **Objective**: To explore the effectiveness of **deep**, **feedforward neural networks** in image classification.
